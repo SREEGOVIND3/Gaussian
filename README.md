@@ -10,14 +10,14 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm
 ```
 1. First,we want to import numpy,then import sys,assume a variable.
-2.For gaussian elimination method, we want to make 2nd and 3rd column zero.
-3.For that we want to make a range accorting to our program output.
-4.Then print the program with correct form then the output will display.
+2. For gaussian elimination method, we want to make 2nd and 3rd column zero.
+3. For that we want to make a range accorting to our program output.
+4. Then print the program with correct form then the output will display.
 ```
 ## Program:
 ```
 Program to solve a matrix using Gaussian elimination with partial pivoting.
-Developed by: Sree Govind
+Developed by: Sree Govind SA
 RegisterNumber: 24900123
 
 import numpy as np
@@ -49,7 +49,8 @@ for i in range(n):
 
 
 ## Output:
-![Screenshot 2024-12-26 193313](https://github.com/user-attachments/assets/57b8ccd1-9fbb-452a-8ff8-0ea048ce2594)
+![image](https://github.com/user-attachments/assets/e7306a99-aca9-47ff-a2f0-0683cb2c5fc1)
+
 
 
 
